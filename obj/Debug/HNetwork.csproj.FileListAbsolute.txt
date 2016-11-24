@@ -1,0 +1,4 @@
+D:\CurrentProjects\HSpeedTest\HNetwork\bin\Debug\HNetwork.dll
+D:\CurrentProjects\HSpeedTest\HNetwork\bin\Debug\HNetwork.pdb
+D:\CurrentProjects\HSpeedTest\HNetwork\obj\Debug\HNetwork.dll
+D:\CurrentProjects\HSpeedTest\HNetwork\obj\Debug\HNetwork.pdb
